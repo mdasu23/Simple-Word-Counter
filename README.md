@@ -1,4 +1,5 @@
 My Own Version of Word Counter tool , Coding challenge link-> https://codingchallenges.fyi/challenges/challenge-wc
+
 Usage:  
   1. Compile by giving the command make ccwc
   2. ./ccwc -c "input".txt : Outputs the number of bytes in the input file.

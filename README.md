@@ -9,3 +9,4 @@ Usage:
   7. cat "input".txt | ./ccwc [-l -c -w -m] : Reads the input and outputs the above stats from the input.
   8. Clean the space by issuing the command make clean.
 
+License: https://github.com/mdasu23/ccwc/blob/ccwc/LICENSE
